@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 #
 # author: Emrah Bozkaya (Qualysoft GmbH)
 #
